@@ -1,6 +1,6 @@
 #Sistema de Gestión de Estudiantes en Java
 
-Proyecto en **Java** para gestionar estudiantes desde consola.  
+Proyecto en Java para gestionar estudiantes desde consola.  
 Incluye persistencia en archivo y generación de reportes.
 
 #Funcionalidades
@@ -15,7 +15,7 @@ Incluye persistencia en archivo y generación de reportes.
   - Exportación de reportes a archivo `.txt`.
 
 #Tecnologías
-- Java 17+
+- Java 21
 - Programación Orientada a Objetos (POO)
 - Manejo de archivos (`FileWriter`, `BufferedReader`)
 - Validaciones de entrada con `InputUtils`
