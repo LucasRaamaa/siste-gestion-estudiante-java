@@ -1,0 +1,2 @@
+809;Lucas;Licenciatura en sistemas;7.0
+101;ramiro;ingenieria;8.0

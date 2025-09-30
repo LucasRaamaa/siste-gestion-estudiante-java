@@ -1,0 +1,19 @@
+====================================
+     Reporte de Estudiantes          
+====================================
+
+Total de estudiantes: 2
+Promedio general: 7,50
+
+Estudiante con mayor promedio: 
+    Estudiante {legajo: 101, Nombre: ramiro, Carrera: ingenieria, Promedio: 8.0}
+
+Estudiante con menor promedio: 
+     Estudiante {legajo: 809, Nombre: Lucas, Carrera: Licenciatura en sistemas, Promedio: 7.0}
+
+Listado completo de estudiantes: 
+    - Estudiante {legajo: 809, Nombre: Lucas, Carrera: Licenciatura en sistemas, Promedio: 7.0}
+    - Estudiante {legajo: 101, Nombre: ramiro, Carrera: ingenieria, Promedio: 8.0}
+
+====================================
+Fin del reporte
