@@ -1,9 +1,9 @@
-# 📚 Sistema de Gestión de Estudiantes en Java
+#Sistema de Gestión de Estudiantes en Java
 
 Proyecto en **Java** para gestionar estudiantes desde consola.  
 Incluye persistencia en archivo y generación de reportes.
 
-## 🚀 Funcionalidades
+#Funcionalidades
 - Agregar estudiante (legajo, nombre, carrera, promedio).
 - Listar todos los estudiantes.
 - Buscar estudiante por legajo.
@@ -14,13 +14,13 @@ Incluye persistencia en archivo y generación de reportes.
   - Estudiante con menor promedio.
   - Exportación de reportes a archivo `.txt`.
 
-## 🛠️ Tecnologías
+#Tecnologías
 - Java 17+
 - Programación Orientada a Objetos (POO)
 - Manejo de archivos (`FileWriter`, `BufferedReader`)
 - Validaciones de entrada con `InputUtils`
 
-## ▶️ Ejecución
+#Ejecución
 Compilar:
 ```bash
 javac src/com/gestionestudiantil/*.java
