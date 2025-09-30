@@ -1,6 +1,6 @@
 #Sistema de Gestión de Estudiantes en Java
 
-Proyecto en Java para gestionar estudiantes desde consola.  
+Proyecto para gestionar estudiantes desde consola.  
 Incluye persistencia en archivo y generación de reportes.
 
 #Funcionalidades
